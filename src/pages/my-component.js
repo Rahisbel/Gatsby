@@ -2,7 +2,7 @@ import * as React from 'react'
 
 const MyComponent = () => {
     return (
-        <h1>Hello World!</h1>
+        <h1>My Component</h1>
     )
 }
 
